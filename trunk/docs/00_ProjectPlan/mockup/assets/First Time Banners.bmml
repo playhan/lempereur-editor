@@ -1,0 +1,85 @@
+<mockup measuredH="532" measuredW="1115" mockupH="480" mockupW="1051" skin="sketch" version="1.0">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" h="56" isInGroup="-1" locked="false" measuredH="56" measuredW="469" w="469" x="64" y="67" zOrder="0">
+      <controlProperties>
+        <controlName>First%20Time%20Banner%20Expanded</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" h="56" isInGroup="0" locked="false" measuredH="70" measuredW="100" w="445" x="24" y="0" zOrder="1"/>
+        <control controlID="4" controlTypeID="__group__" h="54" isInGroup="0" locked="false" measuredH="54" measuredW="460" w="460" x="0" y="1" zOrder="0">
+          <controlProperties>
+            <href>Home%26bm%3BHome.bmml%26bm%3BHome.bmml%26bm%3BHome.bmml</href>
+            <map>%3Carea%20alt%3D%22Home%22%20coords%3D%220%2C16%2C460%2C70%22%20href%3D%22Home.bmml%22%20id%3D%224%22%20shape%3D%22rect%22%2F%3E</map>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::MultilineButton" h="54" isInGroup="4" locked="false" measuredH="35" measuredW="33" w="460" x="0" y="0" zOrder="0">
+              <controlProperties>
+                <color>13421772</color>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" h="-1" isInGroup="4" locked="false" measuredH="16" measuredW="16" w="-1" x="7" y="19" zOrder="1">
+              <controlProperties>
+                <icon>RightFillTriangleIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" h="40" isInGroup="0" locked="false" measuredH="140" measuredW="200" w="432" x="30" y="7" zOrder="2">
+          <controlProperties>
+            <size>12</size>
+            <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20%5Bdolore%20magna%20aliqua%5D.%20Ut%20enim%20ad%20%5Bminim%20veniam%5D%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" h="23" isInGroup="0" locked="false" measuredH="70" measuredW="100" w="119" x="153" y="24" zOrder="3">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <href>Classes%26bm%3BClasses.bmml%26bm%3BClasses.bmml%26bm%3BClasses.bmml</href>
+            <map>%3Carea%20alt%3D%22Classes%22%20coords%3D%22153%2C39%2C272%2C62%22%20href%3D%22Classes.bmml%22%20id%3D%226%22%20shape%3D%22rect%22%2F%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" h="23" isInGroup="0" locked="false" measuredH="70" measuredW="100" w="79" x="336" y="22" zOrder="4">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <href>Sessions%20List%20View%26bm%3BSessions%20List%20View.bmml%26bm%3BSessions%20List%20View.bmml%26bm%3BSessions%20List%20View.bmml</href>
+            <map>%3Carea%20alt%3D%22Sessions%20List%20View%22%20coords%3D%22336%2C37%2C415%2C60%22%20href%3D%22Sessions%2520List%2520View.bmml%22%20id%3D%227%22%20shape%3D%22rect%22%2F%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="__group__" h="56" isInGroup="-1" locked="false" measuredH="56" measuredW="78" w="78" x="595" y="67" zOrder="1">
+      <controlProperties>
+        <controlName>First%20Time%20Banner</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MultilineButton" h="54" isInGroup="1" locked="false" measuredH="35" measuredW="33" w="69" x="0" y="1" zOrder="0">
+          <controlProperties>
+            <color>13421772</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" h="-1" isInGroup="1" locked="false" measuredH="16" measuredW="16" w="-1" x="7" y="20" zOrder="1">
+          <controlProperties>
+            <icon>LeftFillTriangleIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" h="56" isInGroup="1" locked="false" measuredH="70" measuredW="100" w="49" x="29" y="0" zOrder="2"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" h="39" isInGroup="1" locked="false" measuredH="140" measuredW="200" w="35" x="37" y="10" zOrder="3">
+          <controlProperties>
+            <size>11</size>
+            <text>%5BFirst%5D%0A%5BTime%3F%5D</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::StickyNote" h="480" isInGroup="-1" locked="false" measuredH="123" measuredW="109" w="390" x="725" y="52" zOrder="2">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>%7Bcolor%3A%23ff0000%7DAbout%7Bcolor%7D%0ABen%20Norris%20writes%3A%0A%20%0AI%20made%20this%20banner%20for%20a%20web%20app%20I%27m%20designing%20and%20thought%20it%20could%20be%20helpful.%20In%20my%20project%2C%20I%20have%20the%20collapsed%20version%20as%20part%20of%20the%20global%20symbol%2C%20and%20then%20for%20each%20section%20in%20the%20app%2C%20I%20have%20created%20a%20page%20with%20the%20expanded%20version%20pasted%20over%20the%20top.%20I%20use%20the%20collapsed%20version%20as%20a%20group%20with%20a%20link%2C%20and%20then%20in%20the%20expanded%20version%2C%20I%20just%20have%20the%20gray%20rounded%20edge%20contain%20the%20link%20so%20that%20I%20can%20have%20links%20in%20the%20text%20as%20well.%20Hope%20it%20helps%20someone%21%0A%20%0A%7Bcolor%3A%23ff0000%7DInstallation%7Bcolor%7D%0ATo%20use%20as%20a%20symbol%20library%2C%20add%20to%20your%20account%20assets%20or%20to%20a%20project%20assets%20folder.%0A%20%0A%7Bcolor%3A%23ff0000%7DVersion%20History%7Bcolor%7D%0ACreated%20by%20Ben%20Norris%20on%2029%20Dec%202010.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

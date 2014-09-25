@@ -1,0 +1,23 @@
+<mockup version="1.0" skin="sketch" measuredW="674" measuredH="368" mockupW="517" mockupH="269">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="157" y="99" w="313" h="269" measuredW="313" measuredH="269" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>image%20placeholder%20light</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="2" w="313" h="266" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="0"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="313" h="269" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::VCurly" x="494" y="110" w="180" h="247" measuredW="180" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20is%20a%20lighter%20image%20placeholder.%20%0A%20%0AIt%27s%20made%20by%20grouping%20an%20image%20control%20with%20an%20overlaid%20white%20rectangle.%20The%20rectangle%20is%20semi-opaque.%0A%20%0AYou%20can%20change%20how%20light%20the%20placeholder%20is%20by%20overriding%20this%20symbol%20and%20changing%20the%20rectangle%27s%20opacity.%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

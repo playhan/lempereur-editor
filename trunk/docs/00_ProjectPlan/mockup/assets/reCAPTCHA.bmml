@@ -1,0 +1,196 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1033" measuredH="261" mockupW="983" mockupH="234">
+  <controls>
+    <control controlID="40" controlTypeID="__group__" x="50" y="36" w="304" h="152" measuredW="304" measuredH="152" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>reCAPTCHA%20-%20text</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="304" h="84" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="40">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15132390</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="108" w="166" h="-1" measuredW="157" measuredH="25" zOrder="1" locked="false" isInGroup="40">
+          <controlProperties>
+            <bold>false</bold>
+            <italic>true</italic>
+            <size>11</size>
+            <text>Type%20the%20characters%20you%20see</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="20" y="7" w="-1" h="-1" measuredW="23" measuredH="48" zOrder="2" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <italic>true</italic>
+            <size>40</size>
+            <text>e</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="39" y="6" w="24" h="-1" measuredW="22" measuredH="48" zOrder="3" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <italic>true</italic>
+            <size>40</size>
+            <text>x</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="141" y="0" w="-1" h="-1" measuredW="22" measuredH="48" zOrder="4" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <italic>true</italic>
+            <size>40</size>
+            <text>y</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="63" y="0" w="-1" h="-1" measuredW="23" measuredH="48" zOrder="5" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <italic>false</italic>
+            <size>40</size>
+            <text>p</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="107" y="7" w="-1" h="-1" measuredW="17" measuredH="48" zOrder="6" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <italic>true</italic>
+            <size>40</size>
+            <text>r</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="85" y="7" w="-1" h="-1" measuredW="22" measuredH="48" zOrder="7" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <italic>false</italic>
+            <size>40</size>
+            <text>o</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="175" y="136" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="40">
+          <controlProperties>
+            <icon>Help2Icon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="175" y="91" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="40">
+          <controlProperties>
+            <icon>ReloadIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="175" y="112" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="10" locked="false" isInGroup="40">
+          <controlProperties>
+            <icon>VolumeIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="119" y="10" w="24" h="-1" measuredW="25" measuredH="43" zOrder="11" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <size>40</size>
+            <text>t</text>
+            <textOrientation>slanted</textOrientation>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Arrow" x="20" y="26" w="87" h="22" measuredW="150" measuredH="100" zOrder="12" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <curvature>0</curvature>
+            <direction>top</direction>
+            <leftArrow>false</leftArrow>
+            <rightArrow>false</rightArrow>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="175" y="7" w="-1" h="-1" measuredW="22" measuredH="48" zOrder="13" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <size>40</size>
+            <text>n</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="191" y="9" w="-1" h="-1" measuredW="32" measuredH="44" zOrder="14" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <size>40</size>
+            <text>o</text>
+            <textOrientation>slanted</textOrientation>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="212" y="20" w="-1" h="-1" measuredW="33" measuredH="45" zOrder="15" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <size>40</size>
+            <text>c</text>
+            <textOrientation>slanted</textOrientation>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="238" y="22" w="-1" h="-1" measuredW="19" measuredH="41" zOrder="16" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <size>40</size>
+            <text>i</text>
+            <textOrientation>slanted</textOrientation>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="257" y="7" w="-1" h="-1" measuredW="22" measuredH="48" zOrder="17" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>6710886</color>
+            <size>40</size>
+            <text>y</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="41" controlTypeID="__group__" x="375" y="36" w="304" h="156" measuredW="304" measuredH="156" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>reCAPTCHA%20-%20audio</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="304" h="84" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="41">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15132390</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="112" w="166" h="-1" measuredW="114" measuredH="25" zOrder="1" locked="false" isInGroup="41">
+          <controlProperties>
+            <bold>false</bold>
+            <italic>true</italic>
+            <size>11</size>
+            <text>Type%20What%20you%20hear</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="179" y="140" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="41">
+          <controlProperties>
+            <icon>Help2Icon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="179" y="91" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="41">
+          <controlProperties>
+            <icon>ReloadIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="174" y="112" w="27" h="24" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="41">
+          <controlProperties>
+            <borderColor>0</borderColor>
+            <shape>rectangle</shape>
+            <size>13</size>
+            <text>T</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="0" y="65" w="-1" h="-1" measuredW="125" measuredH="18" zOrder="5" locked="false" isInGroup="41">
+          <controlProperties>
+            <size>12</size>
+            <text>Can%27t%20hear%20the%20sound%20%3F</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::StickyNote" x="730" y="27" w="303" h="234" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>%7Bcolor%3A%23ff0000%7DAbout%7Bcolor%7D%0AreCAPTCHA%20security%20widgets%0A%20%0A%7Bcolor%3A%23ff0000%7DInstallation%7Bcolor%7D%0ATo%20use%20as%20a%20symbol%20library%2C%20add%20to%20your%20account%20assets%20or%20to%20a%20project%20assets%20folder.%0A%20%0A%7Bcolor%3A%23ff0000%7DVersion%20History%7Bcolor%7D%0ACreated%20by%20Sarah%20on%203%20Sep%202013</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

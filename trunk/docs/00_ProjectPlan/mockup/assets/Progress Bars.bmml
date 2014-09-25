@@ -1,0 +1,276 @@
+<mockup version="1.0" skin="sketch" measuredW="789" measuredH="391" mockupW="747" mockupH="372">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="42" y="47" w="200" h="20" measuredW="200" measuredH="20" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>progress%20bar%20horizontal</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="200" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>13421772</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="50" h="20" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <borderColor>2848996</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>2848996</color>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="84" y="2" w="-1" h="-1" measuredW="28" measuredH="17" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <align>center</align>
+            <color>0</color>
+            <size>10</size>
+            <text>25%25</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="__group__" x="42" y="139" w="200" h="20" measuredW="200" measuredH="20" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>progress%20bar%20horizontal%20hifi</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="200" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>13421772</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="50" h="20" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <borderColor>2848996</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>2848996</color>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="84" y="2" w="-1" h="-1" measuredW="28" measuredH="17" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <align>center</align>
+            <color>0</color>
+            <size>10</size>
+            <text>25%25</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="__group__" x="288" y="47" w="22" h="200" measuredW="22" measuredH="200" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>progress%20bar%20vertical</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="2" y="0" w="20" h="200" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>13421772</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="2" y="150" w="20" h="50" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="2">
+          <controlProperties>
+            <borderColor>2848996</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>2848996</color>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="87" w="-1" h="-1" measuredW="17" measuredH="28" zOrder="2" locked="false" isInGroup="2">
+          <controlProperties>
+            <align>center</align>
+            <color>0</color>
+            <size>10</size>
+            <text>25%25</text>
+            <textOrientation>down</textOrientation>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="374" y="47" w="20" h="200" measuredW="20" measuredH="200" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>progress%20bar%20vertical%20hifi</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="20" h="200" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>13421772</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="150" w="20" h="50" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="3">
+          <controlProperties>
+            <borderColor>2848996</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>2848996</color>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="87" w="-1" h="-1" measuredW="17" measuredH="28" zOrder="2" locked="false" isInGroup="3">
+          <controlProperties>
+            <align>center</align>
+            <color>0</color>
+            <size>10</size>
+            <text>25%25</text>
+            <textOrientation>down</textOrientation>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::StickyNote" x="486" y="19" w="303" h="372" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>%7Bcolor%3A%23ff0000%7DAbout%7Bcolor%7D%0AExtended%20set%20of%20progress%20bars%20in%20low%20and%20high%20fidelity%20styles.%0A%20%0A%7Bcolor%3A%23ff0000%7DUsage%7Bcolor%7D%0ADouble-click%20group%20to%20edit%2C%20and%20resize%20the%20blue%20box%20to%20set%20progress%20length.%0A%20%0A%7Bcolor%3A%23ff0000%7DInstallation%7Bcolor%7D%0ATo%20use%20as%20a%20symbol%20library%2C%20add%20to%20your%20account%20assets%20or%20to%20a%20project%20assets%20folder.%0A%20%0A%7Bcolor%3A%23ff0000%7DVersion%20History%7Bcolor%7D%0ACreated%20by%20Balsamiq%20on%2022%20Feb%202011</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="__group__" x="42" y="90" w="200" h="20" measuredW="200" measuredH="20" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>progress%20bar%20horizontal%20plain</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="200" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>13421772</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="50" h="20" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="5">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="84" y="2" w="-1" h="-1" measuredW="28" measuredH="17" zOrder="2" locked="false" isInGroup="5">
+          <controlProperties>
+            <align>center</align>
+            <color>0</color>
+            <size>10</size>
+            <text>25%25</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="6" controlTypeID="__group__" x="331" y="47" w="22" h="200" measuredW="22" measuredH="200" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>progress%20bar%20vertical%20plain</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="2" y="0" w="20" h="200" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="6">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>13421772</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="2" y="150" w="20" h="50" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="6">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="87" w="-1" h="-1" measuredW="17" measuredH="28" zOrder="2" locked="false" isInGroup="6">
+          <controlProperties>
+            <align>center</align>
+            <color>0</color>
+            <size>10</size>
+            <text>25%25</text>
+            <textOrientation>down</textOrientation>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="7" controlTypeID="__group__" x="42" y="187" w="200" h="20" measuredW="200" measuredH="20" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>progress%20bar%20horizontal%20hifi%20plain</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="200" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="7">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>13421772</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="50" h="20" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="7">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="84" y="2" w="-1" h="-1" measuredW="28" measuredH="17" zOrder="2" locked="false" isInGroup="7">
+          <controlProperties>
+            <align>center</align>
+            <color>0</color>
+            <size>10</size>
+            <text>25%25</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="8" controlTypeID="__group__" x="417" y="49" w="20" h="200" measuredW="20" measuredH="200" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>progress%20bar%20vertical%20hifi%20plain</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="20" h="200" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="8">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>13421772</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="150" w="20" h="50" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="8">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="87" w="-1" h="-1" measuredW="17" measuredH="28" zOrder="2" locked="false" isInGroup="8">
+          <controlProperties>
+            <align>center</align>
+            <color>0</color>
+            <size>10</size>
+            <text>25%25</text>
+            <textOrientation>down</textOrientation>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="9" controlTypeID="__group__" x="42" y="223" w="200" h="41" measuredW="200" measuredH="41" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>progress%20pill%20bar%20aqua</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="21" w="200" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="9">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>13421772</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="6" y="24" w="50" h="14" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="9">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="200" h="19" measuredW="101" measuredH="17" zOrder="2" locked="false" isInGroup="9">
+          <controlProperties>
+            <align>center</align>
+            <color>0</color>
+            <size>10</size>
+            <text>Downloading%2025%20of%2039</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

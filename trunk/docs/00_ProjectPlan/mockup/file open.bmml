@@ -1,0 +1,53 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="576" measuredH="432" mockupW="576" mockupH="431">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="1" w="576" h="431" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>L%27empereur%20Editor%20Ver%201.0%20%28by%20Playhan%29%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="26" w="-1" h="-1" measuredW="179" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>File%2C%20Language%2C%20Help</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="__group__" x="73" y="78" w="403" h="277" measuredW="403" measuredH="277" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="403" h="277" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Window%20Name</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Tree" x="15" y="39" w="372" h="131" measuredW="300" measuredH="225" zOrder="1" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>f%20folders%0A%20F%20folders</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="74" y="173" w="212" h="-1" measuredW="79" measuredH="26" zOrder="2" locked="false" isInGroup="14">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="13" y="174" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="3" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>File%20name</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::ComboBox" x="301" y="170" w="83" h="-1" measuredW="83" measuredH="46" zOrder="4" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Scenario%0ASave</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="273" y="225" w="-1" h="-1" measuredW="41" measuredH="27" zOrder="5" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>OK</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="323" y="225" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="6" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Cancel</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,21 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="139" measuredH="112" mockupW="76" mockupH="27">
+  <controls>
+    <control controlID="2" controlTypeID="__group__" x="63" y="85" w="76" h="27" measuredW="76" measuredH="27" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Button%20and%20Right%20Icon</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="76" h="27" measuredW="59" measuredH="27" zOrder="0" locked="false" isInGroup="2">
+          <controlProperties>
+            <align>left</align>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="51" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="2">
+          <controlProperties>
+            <icon>RightFillTriangleIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

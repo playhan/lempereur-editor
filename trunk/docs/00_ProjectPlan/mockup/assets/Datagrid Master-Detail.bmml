@@ -1,0 +1,146 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="960" measuredH="995" mockupW="916" mockupH="977">
+  <controls>
+    <control controlID="23" controlTypeID="__group__" x="44" y="54" w="916" h="436" measuredW="916" measuredH="436" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Datagrid%20Master-Detail</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="9" y="43" w="893" h="197" measuredW="362" measuredH="195" zOrder="3" locked="false" isInGroup="23">
+          <controlProperties>
+            <selectedIndex>3</selectedIndex>
+            <text>Name%5Cr%28job%20title%29%20%5E%2C%20Age%20%5Ev%2C%20Nickname%2C%20Employee%20v%0AGiacomo%20Guilizzoni%5CrFounder%20%26%20CEO%2C%2036%2C%20Peldi%2C%20%5Bx%5D%0AMarco%20Botton%5CrTuttofare%2C%2034%2C%20%2C%20%5Bx%5D%0AMariah%20Maclachlan%5CrBetter%20Half%2C%2037%2C%20Patata%2C%20%5Bx%5D%0AValerie%20Liberty%5CrHead%20Chef%2C%20%3A%29%2C%20Val%2C%20%5Bx%5D%0AGuido%20Jack%20Guilizzoni%2C%206%2C%20The%20Guids%2C%20%5B%5D%0A%7B55L%2C%200R%2C%2025%2C%200C%2C%2010%2C%2010%7D</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="771" y="178" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="23">
+          <controlProperties>
+            <icon>WriteIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="844" y="178" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="23">
+          <controlProperties>
+            <icon>Trash2Icon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="9" y="240" w="893" h="144" measuredW="893" measuredH="144" zOrder="6" locked="false" isInGroup="23">
+          <controlProperties>
+            <controlName/>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="893" h="144" measuredW="246" measuredH="169" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <selectedIndex>-1</selectedIndex>
+                <size>11</size>
+                <text>Transaction%20ID%2C%20Date%2C%20Description%0A2%2C%201/1/2009%2C%20Amex%2093575%0A13%2C%201/17/2009%2C%20Amex%2093573%0A16%2C%202/10/2009%2C%20Amex%2093589%0A21%2C%204/2/2009%2C%20Amex%2093590%0A22%2C%202/1/2009%2C%20Amex%2093591</text>
+                <verticalScrollbar>true</verticalScrollbar>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="916" h="436" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="23">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="15" y="396" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="1" locked="false" isInGroup="23">
+          <controlProperties>
+            <icon>CircledPlusIcon%7Cxsmall</icon>
+            <text>Create</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::ButtonBar" x="353" y="395" w="-1" h="-1" measuredW="482" measuredH="27" zOrder="2" locked="false" isInGroup="23">
+          <controlProperties>
+            <text>%3C%3C%2C%20%3C%20%2C%201%2C%202%2C%203%2C%204%2C%205%2C%206%2C7%2C%208%2C%209%2C%2010%2C%20%3E%2C%20%3E%3E</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="44" y="18" w="-1" h="-1" measuredW="141" measuredH="16" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>2848996</color>
+        <size>13</size>
+        <text>Datagrid%20Master-Detail</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::SubTitle" x="44" y="523" w="-1" h="-1" measuredW="244" measuredH="16" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>2848996</color>
+        <size>13</size>
+        <text>Datagrid%20Master-Detail%20Expansion%20Rows</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="__group__" x="44" y="559" w="916" h="436" measuredW="916" measuredH="436" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Datagrid%20Master-Detail%20Expansion%20Rows</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="916" h="436" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="39">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="15" y="396" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="1" locked="false" isInGroup="39">
+          <controlProperties>
+            <icon>CircledPlusIcon%7Cxsmall</icon>
+            <text>Create</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="353" y="395" w="-1" h="-1" measuredW="482" measuredH="27" zOrder="2" locked="false" isInGroup="39">
+          <controlProperties>
+            <text>%3C%3C%2C%20%3C%20%2C%201%2C%202%2C%203%2C%204%2C%205%2C%206%2C7%2C%208%2C%209%2C%2010%2C%20%3E%2C%20%3E%3E</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="9" y="43" w="893" h="338" measuredW="356" measuredH="320" zOrder="3" locked="false" isInGroup="39">
+          <controlProperties>
+            <selectedIndex>3</selectedIndex>
+            <text>%20%2CName%5Cr%28job%20title%29%20%5E%2C%20Age%20%5Ev%2C%20Nickname%2C%20Employee%20v%0A%20%2CGiacomo%20Guilizzoni%5CrFounder%20%26%20CEO%2C%2036%2C%20Peldi%2C%20%5Bx%5D%0A%20%2CMarco%20Botton%5CrTuttofare%2C%2034%2C%20%2C%20%5Bx%5D%0A%20%2CMariah%20Maclachlan%5CrBetter%20Half%2C%2037%2C%20Patata%2C%20%5Bx%5D%0A%20%2CValerie%20Liberty%5CrHead%20Chef%5Cr%5Cr%5Cr%5Cr%5Cr%5Cr%5Cr%5Cr%2C%20%3A%29%5Cr%5Cr%5Cr%5Cr%5Cr%5Cr%5Cr%2C%20Val%5Cr%5Cr%5Cr%5Cr%5Cr%5Cr%5Cr%2C%20%0A%20%2CGuido%20Jack%20Guilizzoni%2C%206%2C%20The%20Guids%2C%20%5B%5D%0A%7B5%2C55L%2C%200R%2C%2025%2C%200C%7D</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="847" y="184" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="4" locked="false" isInGroup="39">
+          <controlProperties>
+            <state>selected</state>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::DataGrid" x="63" y="210" w="835" h="99" measuredW="246" measuredH="169" zOrder="5" locked="false" isInGroup="39">
+          <controlProperties>
+            <alternateRowColor>15134199</alternateRowColor>
+            <color>15134199</color>
+            <hasHeader>true</hasHeader>
+            <hLines>true</hLines>
+            <selectedIndex>-1</selectedIndex>
+            <size>11</size>
+            <text>Transaction%20ID%2C%20Date%2C%20Description%0A2%2C%201/1/2009%2C%20Amex%2093575%0A13%2C%201/17/2009%2C%20Amex%2093573%0A16%2C%202/10/2009%2C%20Amex%2093589%0A21%2C%204/2/2009%2C%20Amex%2093590%0A22%2C%202/1/2009%2C%20Amex%2093591</text>
+            <verticalScrollbar>true</verticalScrollbar>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="20" y="83" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="6" locked="false" isInGroup="39">
+          <controlProperties>
+            <icon>RightFillTriangleIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="20" y="117" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="7" locked="false" isInGroup="39">
+          <controlProperties>
+            <icon>RightFillTriangleIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="20" y="151" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="39">
+          <controlProperties>
+            <icon>RightFillTriangleIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="20" y="179" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="39">
+          <controlProperties>
+            <icon>DownFillTriangleIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="20" y="337" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="10" locked="false" isInGroup="39">
+          <controlProperties>
+            <icon>RightFillTriangleIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
